@@ -1,1 +1,2 @@
-# module14-belly-button-challenge
+# Interactive Visuals Challenge
+For the Belly Button Biodiversity challenge, I created a web dashboard that shows different microbes found in human belly buttons. Using JavaScript and the D3 library, I made charts that update with information from a samples.json file. My dashboard includes a bar chart for the top 10 microbes in a person and a bubble chart showing the variety of microbes present. It also displays each person's demographic information. All parts of the dashboard update when a new individual is selected from a dropdown menu. I finished by deploying this interactive dashboard online through GitHub Pages, making it easy for anyone to explore the fascinating world of navel biodiversity.
